@@ -1,2 +1,2 @@
 # Json-Exercise
-Springboard exercse
+Springboard exercise for working with Json file. 
